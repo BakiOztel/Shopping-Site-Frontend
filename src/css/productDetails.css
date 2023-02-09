@@ -1,0 +1,22 @@
+.card-details-container {
+    padding: 20px 150px 0 150px;
+}
+
+.card-details-row {
+    display: flexbox;
+    width: 1600px;
+    height: 800px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    padding: 10px 25px 0px 25px;
+}
+
+.details_comment {
+    margin-top: 100px;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.detail_button {
+    width: 500px;
+    height: 80px;
+}

@@ -1,0 +1,29 @@
+.card-product {
+    height: 500px;
+    width: 300px;
+    transition: all .4s ease-in-out;
+
+}
+
+.card-product:hover {
+    transform: scale(1.05);
+}
+
+.prodcut_container {
+    padding: 20px 100px 0 100px;
+}
+
+.product_page_secondC {
+    padding: 0 0 0 25px;
+}
+
+.product-col {
+    margin: 0 0 25px 0
+}
+
+.card-img-product {
+    min-height: 75%;
+    max-height: 75%;
+    object-fit: cover;
+    object-position: center;
+}

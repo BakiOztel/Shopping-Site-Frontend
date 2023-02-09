@@ -1,0 +1,25 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.header_container {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header_dropdown {
+    width: 100%;
+    margin-left: 20px;
+}
+
+.bottom_navbar>.nav-item {
+    width: 175px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: red;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: orange;
+}

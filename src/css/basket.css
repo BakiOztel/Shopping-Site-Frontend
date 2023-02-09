@@ -1,0 +1,22 @@
+.basket_right_col {
+    padding: 0px 25px 10px 25px;
+}
+
+.basket_container {
+    min-height: 800px;
+    padding: 50px 75px 0px 75px;
+}
+
+.emptybasket_img_row {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+.emptybasket_img {
+    max-width: 500px;
+}
+
+.emptyText {
+    text-align: center;
+}

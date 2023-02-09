@@ -1,0 +1,9 @@
+.container {
+    min-height: 1000px !important;
+}
+
+.layout_main {
+    margin: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}

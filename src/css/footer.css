@@ -1,0 +1,10 @@
+.footer_container {
+    padding: 50px 170px 0 170px !important;
+    background-color: #FFC288;
+    color: #F1F6F9;
+    height: 250px !important;
+}
+
+.footer_container>.row .col {
+    height: 100%;
+}

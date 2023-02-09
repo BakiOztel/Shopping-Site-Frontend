@@ -1,0 +1,49 @@
+#carouselHero .carousel-item img {
+    height: 500px !important;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    overflow: hidden;
+}
+
+.col-main {
+    padding-left: 7px;
+    padding-right: 7px;
+    height: 420px;
+}
+
+
+.mainpage_container {
+    padding-left: 170px;
+    padding-right: 170px;
+    width: 100%;
+
+
+}
+
+.card-main {
+    padding: 10px;
+    height: 100%;
+}
+
+.card-img-main {
+    object-fit: cover;
+    min-height: 85%;
+    max-height: 85%;
+}
+
+.card-text-main {
+    display: block;
+    margin-top: 15px;
+    text-decoration: none;
+
+}
+
+.card-text-main:hover {
+    color: brown;
+}
+
+.card-title-main {
+    padding: 5px 0 0 10px;
+    font-weight: bold;
+}
